@@ -1,4 +1,4 @@
-![Screenshot_15-10-2025_22173_127 0 0 1](https://github.com/user-attachments/assets/260f3f70-6b51-42c8-98bd-65f632512ee4)# Ex.08 Design of Interactive Image Gallery
+# Ex.08 Design of Interactive Image Gallery
 ## Date:15|10|2025
 
 ## AIM:
